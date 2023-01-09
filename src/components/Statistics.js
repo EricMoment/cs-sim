@@ -8,7 +8,7 @@ function Statistics() {
     <div className="statistics">
       <h3>A lil bit of context:</h3>
       <h4>
-        Dream MS uses White Scroll(ws) as currency for large transactions. White scroll prevents 
+        The Game uses White Scroll(ws) as currency for large transactions. White scroll prevents 
         number of upgrades from decreasing in case of enchanting fails. Chaos Scrolls
         only has 60% chance to pass, so most players use 1 Chaos scroll and 1 White Scroll per enchantment. 
       </h4>

@@ -45,7 +45,7 @@ function App() {
 
 export default App;
 
-//todo: css, create price tags
+//todo: create price tags
 
   //const firstUpdated = useRef(false);
   //useEffect(() => {
