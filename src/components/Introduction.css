@@ -1,0 +1,19 @@
+.cs-intro {
+  width: 1em;
+  height: 1em;
+  margin: 0 6px;
+}
+
+.introduction {
+  margin: 0 2rem;
+}
+
+.introduction > h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.introduction h4 {
+  line-height: 1.6;
+}

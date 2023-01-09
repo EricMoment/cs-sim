@@ -1,0 +1,46 @@
+.statistics {
+  margin: 0 2rem;
+}
+
+.statistics h4 {
+  line-height: 1.6;
+}
+
+.statistics > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+img {
+  max-width: 100%;
+  width: auto\9; /* ie8 */
+}
+
+li {
+  font-weight: 550;
+}
+
+#e1 {
+  color: red;
+}
+
+#e2 {
+  color: orange;
+}
+
+#e3 {
+  color: palevioletred;
+}
+
+#e4 {
+  color: rgb(73, 73, 73);
+}
+
+#e5 {
+  color: rgb(122, 116, 0);
+}
+
+strong {
+  color: red;
+}
