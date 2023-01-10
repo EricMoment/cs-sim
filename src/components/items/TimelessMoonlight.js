@@ -88,7 +88,7 @@ function Moonlight({updateCost}) {
       <div id='timeless-moonlight'>
         <div className="item-name">
           <img src={TLCapeIMG} alt='timeless-moonlight'></img>
-          <div>Timeless Moonlight</div>
+          <h4>Timeless Moonlight</h4>
         </div>
         <div className="item-stats">
           <div className='item-remaining-upgrades'>Upgrades: {upgrades}</div>

@@ -51,7 +51,7 @@ function BlackfistCloak({updateCost}) {
       <div id='blackfist-cloak'>
         <div className="item-name">
           <img src={bfcIMG} alt='blackfist-cloak'></img>
-          <div>Blackfist Cloak</div>
+          <h4>Blackfist Cloak</h4>
         </div>
         <div className="item-stats">
           <div className='item-remaining-upgrades'>Upgrades: {upgrades}</div>

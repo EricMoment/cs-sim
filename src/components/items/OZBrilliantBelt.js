@@ -86,7 +86,7 @@ function OZBrilliantBelt({updateCost}) {
       <div id='oz-brilliant-belt'>
         <div className="item-name">
           <img src={ozIMG} alt='oz-brilliant-belt'></img>
-          <div>OZ's Brilliant Belt</div>
+          <h4>OZ's Brilliant Belt</h4>
         </div>
         <div className="item-stats">
           <div className='item-remaining-upgrades'>Upgrades: {upgrades}</div>

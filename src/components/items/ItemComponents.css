@@ -4,9 +4,9 @@
 #oz-brilliant-belt,
 #timeless-moonlight {
   display: grid;
-  grid-template-columns: 160px 160px;
-  grid-template-rows: 150px 90px;
-  border: 3px solid black;
+  grid-template-columns: 160px 170px;
+  grid-template-rows: 160px 100px;
+  border: 3px solid rgb(65, 131, 216);
   background: url('../itemImages/backg2.png');
   border-radius: 15px;
   animation: fromTop 0.5s linear;
@@ -21,9 +21,9 @@
   background-color: rgb(50, 43, 43);
   padding: 4px 0;
   color: rgb(245, 153, 100);
-  font-style:oblique;
+  font-style: oblique;
   border-radius: 15px;
-  width: 650px;
+  width: 720px;
 }
 
 .item-name {
@@ -36,6 +36,10 @@
   gap: 8px
 }
 
+.item-name > h4 {
+  text-align: center;
+  margin: 0;
+}
 .item-stats {
   grid-row: 1 / 2;
   grid-column: 2 / 3;
@@ -77,7 +81,7 @@
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 720px) {
   .result-message {
     opacity: 0;
   }

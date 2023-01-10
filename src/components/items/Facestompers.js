@@ -52,7 +52,7 @@ function Facestompers({updateCost}) {
       <div id='facestompers'>
         <div className="item-name">
           <img src={fsIMG} alt='facestompers'></img>
-          <div className='item-name'>Facestompers</div>
+          <h4>Facestompers</h4>
         </div>
         <div className="item-stats">
           <div className='item-remaining-upgrades'>Upgrades: {upgrades}</div>

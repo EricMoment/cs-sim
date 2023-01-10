@@ -85,7 +85,7 @@ function AngelicBlessing({updateCost}) {
       <div id='angelic-blessing'>
         <div className="item-name">
           <img src={ABIMG} alt='angelic-blessing'></img>
-          <div className='item-name'>Angelic Blessing</div>
+          <h4>Angelic Blessing</h4>
         </div>
         <div className="item-stats">
           <div className='item-remaining-upgrades'>Upgrades: {upgrades}</div>
