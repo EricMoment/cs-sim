@@ -1,3 +1,11 @@
+## Disclaimer
+
+Maplestory and all related content including images and sounds used are properties of Nexon. The site is not affiliated with or sponsored by Nexon/Maplestory.
+
+## How to play
+
+Simply click on the scroll icon and test your luck! The higher values the better. Try getting 27 attack for shoes and 18 attack for belt and etc.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
