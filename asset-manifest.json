@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/cs-sim/static/css/main.03ff251d.css",
-    "main.js": "/cs-sim/static/js/main.2ec5da63.js",
+    "main.css": "/cs-sim/static/css/main.efdebfc1.css",
+    "main.js": "/cs-sim/static/js/main.7294d3f2.js",
     "static/media/backg2.png": "/cs-sim/static/media/backg2.e1fbd34a2aad50d685d2.png",
     "static/media/background.jpg": "/cs-sim/static/media/background.51ab8f8499e9bab48865.jpg",
     "static/media/facestompers->5.png": "/cs-sim/static/media/facestompers->5.bf0396f322b41a3315c4.png",
@@ -9,11 +9,11 @@
     "static/media/fail.mp3": "/cs-sim/static/media/fail.2e11a92c5e0bdbf92f19.mp3",
     "static/media/pass.mp3": "/cs-sim/static/media/pass.0e232bca4152d0c827d4.mp3",
     "index.html": "/cs-sim/index.html",
-    "main.03ff251d.css.map": "/cs-sim/static/css/main.03ff251d.css.map",
-    "main.2ec5da63.js.map": "/cs-sim/static/js/main.2ec5da63.js.map"
+    "main.efdebfc1.css.map": "/cs-sim/static/css/main.efdebfc1.css.map",
+    "main.7294d3f2.js.map": "/cs-sim/static/js/main.7294d3f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.03ff251d.css",
-    "static/js/main.2ec5da63.js"
+    "static/css/main.efdebfc1.css",
+    "static/js/main.7294d3f2.js"
   ]
 }
