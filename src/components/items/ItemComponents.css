@@ -59,9 +59,10 @@
 }
 
 .reset-button, .enchant-button {
-  border: none;
-  background: none;
+  border: 1px solid black;
+  border-radius: 10px;
   font-size: 1rem;
+  padding: 8px;
   font-weight: 600;
 }
 
@@ -83,6 +84,6 @@
 
 @media (max-width: 720px) {
   .result-message {
-    opacity: 0;
+    display: none;
   }
 }

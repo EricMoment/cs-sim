@@ -19,27 +19,10 @@ img {
 
 li {
   font-weight: 550;
-}
-
-#e1 {
+  line-height: 1.6;
   color: red;
 }
 
-#e2 {
-  color: orange;
-}
-
-#e3 {
-  color: palevioletred;
-}
-
-#e4 {
-  color: rgb(73, 73, 73);
-}
-
-#e5 {
-  color: rgb(122, 116, 0);
-}
 
 strong {
   color: red;

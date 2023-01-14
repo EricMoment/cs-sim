@@ -7,3 +7,8 @@ body {
   background-attachment: fixed;
 }
 
+@media screen and (max-width: 720px) {
+  body {
+    background-image: none;
+  }
+}
