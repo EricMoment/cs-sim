@@ -6,7 +6,6 @@
   display: grid;
   grid-template-columns: 160px 170px;
   grid-template-rows: 160px 100px;
-  border: 3px solid rgb(65, 131, 216);
   background: url('../itemImages/backg2.png');
   border-radius: 15px;
   animation: fromTop 0.5s linear;
@@ -15,7 +14,6 @@
 
 .result-message {
   text-align: center;
-  font-size: 1rem;
   height: 20px;
   margin: 4px 0 8px 0;
   background-color: rgb(50, 43, 43);
@@ -61,7 +59,6 @@
 .reset-button, .enchant-button {
   border: 1px solid black;
   border-radius: 10px;
-  font-size: 1rem;
   padding: 8px;
   font-weight: 600;
 }

@@ -32,17 +32,13 @@ table {
   justify-content: center;
   align-items: center;
   color: rgb(43, 42, 42);
-  font-family: 'Lucida Grande', sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
 }
 
 .total-expense {
   text-align: center;
-  font-size: 1rem;
-  font-weight: 600;
   height: 20px;
   margin-top: 8px;
-  background-color: whitesmoke;
+  background-color: rgb(200, 200, 200);
   padding: 4px 0;
   color: rgb(255, 0, 0);
   border-radius: 15px;

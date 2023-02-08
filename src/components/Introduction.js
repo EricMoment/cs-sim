@@ -4,7 +4,7 @@ import './Introduction.css'
 function Introduction() {
   return (
     <div className="introduction">
-      <h1>Chaos Scroll Simulator</h1>
+      <h1>CHAOS SCROLL SIMULATOR</h1>
       <div className="cs-briefing">
         <h3>What is Chaos Scroll?</h3>
         <h4>
